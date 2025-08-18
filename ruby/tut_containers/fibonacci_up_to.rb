@@ -6,5 +6,5 @@ def fibonacci_up_to(max)
   end
 end
 
-fibonacci_up_to(9000) { |f| print f, " " }
-puts
+fibonacci_up_to(1000) { |f| print f, " "}
+# puts
